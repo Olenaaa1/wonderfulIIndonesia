@@ -1,0 +1,4 @@
+cd wonderfulIIndonesia
+git remote remove origin
+git branch -M main
+git remote add origin https://github.com/Olenaaa1/wonderfulIIndonesia.git
